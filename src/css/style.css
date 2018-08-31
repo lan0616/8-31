@@ -14,3 +14,9 @@ html.body,
     text-align: center;
     color: #866868;
 }
+
+.wrap .main {
+    color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
