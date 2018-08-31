@@ -1,0 +1,16 @@
+html.body,
+.wrap {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.wrap {
+    background: pink;
+}
+
+.wrap .header {
+    width: 100%;
+    text-align: center;
+    color: #866868;
+}
